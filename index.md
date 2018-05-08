@@ -1,9 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/buryc/HOC_Frogger3D/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome Frogger 3D
+This game was created for our History of Computing Class at the University of Notre Dame. Our objective is to recreate a 2D game into a 3D game. We chose to implemet the classic game Frogger. We used Unity to build the scene and the code for the game. For the scenery we made cars, trucks, train, and water with logs all through Unity. Alos, we added in the physics to the vehicles and collison detection. We created a frog skeleton in Maya so we could animate it like an actual frog. This will give it the realistic view of a frog moving when a user moves around the course. We put in game play code that will time the user, keep track of score and lives and determine how a player loses a life based on the collison detection. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
