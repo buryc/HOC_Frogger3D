@@ -8,11 +8,12 @@ We used Unity to build the scene and the code for the game. For the scenery we c
 Clay: Focused on the frog animation to allow the frog to move properly. The work was done in Maya to build a skeleton for the frog and apply animation to the object. He also worked on the coding of the game and implementing the frog into the scene so the game could run properly together.
 Alec: Worked on the scenery adding in the cars, trucks, train, logs, and objects to the display. Implemented the code that allowed for collisions on the objects and the physics on the objects so that they would correctly interact with the frog. He used Unity to make all of the objects in the scene.
 Chris: Worked on the code for the game play state that included the determination of how points are scored, the way in which the frog can lose a life, and different levels into the game. Additionally, he completed the documentation throughout the stages of the project and generated the website using GitHub for integration of the game online.
-Accomplishments
+
+## Accomplishments
 The team accomplished significant functionality according to the planned objectives for the game features. We successfully created a complete and functioning game with a few different levels, an animated character, and Unity objects which included collision detection. The game implemented a realistic 3D view of the original game Frogger which was the main objective of the project. Additionally, we were able to create a website that includes the game and properly documents our work.
 
 ## What We Learned
 We gained a great deal of experience in the process for creating objects in Unity and in the details of the workings of Unity, in general. We learned how to add physics to objects and collision detection which was especially interesting and exciting when seeing the final project in action. We also learned how to animate an object and import it from Maya into Unity. Finally, we were able to successfully embed a Unity project into a website so that the game can be executed online and played by all! 
 
 ## Demo
-[Frogger 3D](https://buryc.github.io/HOC_Frogger3D/index.html)
+[Frogger 3D](https://buryc.github.io/HOC_Frogger3D/WebBuild/index.html)
