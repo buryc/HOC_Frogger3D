@@ -16,4 +16,4 @@ The team accomplished significant functionality according to the planned objecti
 We gained a great deal of experience in the process for creating objects in Unity and in the details of the workings of Unity, in general. We learned how to add physics to objects and collision detection which was especially interesting and exciting when seeing the final project in action. We also learned how to animate an object and import it from Maya into Unity. Finally, we were able to successfully embed a Unity project into a website so that the game can be executed online and played by all! 
 
 ## Demo
-[Frogger 3D](https://buryc.github.io/HOC_Frogger3D/WebBuild/index.html)
+[Frogger 3D Game](https://buryc.github.io/HOC_Frogger3D/WebBuild/index.html)
