@@ -17,4 +17,4 @@ We gained a lot of experience in how to make objects in Unity and Unity in gener
 Demo
 
 ## Demo
-[a link](https://buryc.github.io/HOC_Frogger3D/index.html)
+[Frogger 3D](https://buryc.github.io/HOC_Frogger3D/index.html)
