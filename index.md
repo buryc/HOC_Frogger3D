@@ -17,34 +17,5 @@ The team was able to accomplish a great deal since we were able to make a comple
 ## What We Learned 
 We gained a lot of experience in how to make objects in Unity and Unity in general. We learned how to add physics to objects and collision detection. Additionally, we learned how to animate and object and import it from Maya into Unity. Finally, we learned how t embed a Unity project into a website so it can be executed online and played by all! 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buryc/HOC_Frogger3D/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Demo
+https://buryc.github.io/HOC_Frogger3D/index.html
